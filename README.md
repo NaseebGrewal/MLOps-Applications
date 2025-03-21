@@ -1,6 +1,3 @@
-Here’s a well-structured `README.md` template for your "MLOps-Applications" project. This format will help maintain consistency and clearly communicate important aspects of your repository.
-
-
 # MLOps-Applications
 
 ## Overview
