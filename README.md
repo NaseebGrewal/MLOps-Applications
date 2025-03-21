@@ -17,7 +17,7 @@ The **MLOps-Applications** repository aims to provide practical examples, tools,
 - [Installation](#installation)
 - [Getting Started](#getting-started)
 - [Examples](#examples)
-- [Project Structure](#project-structure)
+- [Project Structure](#project-structure) Yet to be updated
 - [Tools & Technologies](#tools--technologies)
 - [Contributing](#contributing)
 - [License](#license)
